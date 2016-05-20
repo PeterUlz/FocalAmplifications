@@ -10,12 +10,12 @@ between new amplifications was 26.4 weeks (range: 5-52 weeks), suggesting that t
 tumor genome, most consistent with subclonal diversification of the tumor. Our findings suggest a high plasticity of 
 prostate cancer genomes with newly occurring focal amplifications as a driving force in progression.
 
-*Focal_amplifications_in_R.ipynb* 
+*Focal_amplifications_in_R.ipynb*  
 Use R to identify focal events in segmented copy-number data
 
-*PanCancer_focal_statistics.ipynb* 
+*PanCancer_focal_statistics.ipynb*  
 Get statistics of copy-numbers from the TCGA PanCancer dataset
 
-*FocalAmplifications_Prostate_methods.ipynb* 
+*FocalAmplifications_Prostate_methods.ipynb*  
 Compare Plasma-Seq data to copy-number data of TCGA prostate cancer data set
 
